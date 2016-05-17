@@ -95,6 +95,7 @@ task :test => [] do
     Rake::Task[:serve].invoke
     puts "Stopping web server on port 9000"
   end
+  sleep(5)
   puts "Starting the tests against the web server"
   begin
     Rake::Task[:spec].invoke
