@@ -1,6 +1,6 @@
 {
   "name": "rcue-sass",
-  "version": "3.3.6",
+  "version": "3.4.0",
   "authors": "Red Hat",
   "license": "Apache-2.0",
   "homepage": "http://rcue-uxd.itos.redhat.com/",
@@ -17,7 +17,7 @@
     "rcue.spec.in"
   ],
   "dependencies": {
-    "patternfly-sass": "~3.3.6"
+    "patternfly-sass": "~3.4.0"
   },
   "private": true
 }
