@@ -7,6 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = 'rcue-sass'
   spec.version       = RCUE::VERSION
   spec.authors       = ['Red Hat']
+  spec.summary       = "Red Hat's Common User Experience converted to SASS"
 
   spec.homepage      = 'http://rcue-uxd.itos.redhat.com/'
   spec.license       = 'Apache-2.0'
